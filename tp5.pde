@@ -1,7 +1,7 @@
 /*
  Alumna: Jade Paoletti
  Comisión: 1 (Prof. José Luis Bugiolachi)
- Link al video:
+ Link al video: (No tuve tiempo de hacer el video, pero puedo subirlo en los dias siguientes)
  */
 
 Juego juego;
