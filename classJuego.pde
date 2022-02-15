@@ -239,7 +239,7 @@ class Juego {
       
       // VIDEOJUEGO -- DESPUES DE LA PANTALLA 9 -- PANTALLA 1
       image(fondo[0], 0, 0);
-      titulo("Minijuego #1", fuentes[0], width/2, height/3, 100);
+      titulo("Minijuego", fuentes[0], width/2, height/3, 100);
       textoCenter("Muévete con UP y DOWN y esquiva los obstaculos \n -Cada obstáculo que choques, te sacará un cierto porcentaje de tu vida \n -Si logras aguantar 1 min sin perder toda la vida, ganas", fuentes[1], width/2, height/2, 25);
       boton.dibujar(this, "Empezar", fuentes[1], width/2, height/2+height/4);
   
